@@ -1,0 +1,1 @@
+# scalametals.vim
